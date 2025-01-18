@@ -1,0 +1,20 @@
+.App{
+  background-color: rgb(104, 105, 105);
+  justify-content: center;
+}
+
+.titleName{
+  padding:15px;
+  float:left;
+  color:whitesmoke
+}
+
+.addbutton{
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  float:right;
+  justify-items: center;
+}
+
+
