@@ -1,7 +1,7 @@
 # Employee-Management-using-React
 
 Backend - Spring boot, java, MySQL.  
-Frontend - React   
+Frontend - React, Bootstrap   
 
 # View-Employees  
 ![image](https://github.com/user-attachments/assets/99660eb2-0e65-4007-9112-48d4d441355b)
